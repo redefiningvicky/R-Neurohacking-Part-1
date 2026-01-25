@@ -2,7 +2,7 @@
 ## 🎯 Objective <br>
 This project uses the R programming language and its neuroimaging packages to manipulate, process, and analyze structural brain MRI data in the NIfTI (Neuroimaging Informatics Technology Initiative) format. It focuses on performing inhomogeneity correction, brain extraction, image registration, and visualization to enable comprehensive exploration of neuroimaging data. <p>
 ## 🛠️ Tools <br>
-• <b>Language:</b> R <p>
+• <b>Programming & Computational Analysis:</b> R <p>
 ## 🖼️ Images <br>
 Of the MRI slices numbered 1 to 22, only slice 11 is shown as a representative example. Sample R code snippets are included to show how the images were generated. Early slices were processed manually, and later ones use loops to make the workflow faster and more efficient as R skills improved.
 ### DICOM FLAIR Slice 11 Grayscale
