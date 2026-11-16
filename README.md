@@ -1818,10 +1818,6 @@ binary_mask_overlay_113_02_MPRAGE[binary_mask_113_02_MPRAGE &lt;= 0] &lt;- NA</c
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Technical-Projects">
-      Back to Technical Projects
-    </a>
-    &nbsp; • &nbsp;
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
